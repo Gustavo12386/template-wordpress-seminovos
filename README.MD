@@ -3,6 +3,9 @@
 ## Sobre o projeto
 - Essa template se trata de um site de uma determinada loja de seminovos, no qual têm os objetivos de divulgar a marca, também têm o objetivo de vender seus produtos e também divulgá-los
 
+## Tecnologias Utilizadas
+- Wordpress com os plugins Elementor, Jet Engine e Jet Smart Filters
+
 ## Link-site
 - http://templateseminovos.rf.gd
 
